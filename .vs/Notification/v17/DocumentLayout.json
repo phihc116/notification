@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\notification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BA3392-19C1-4BDA-8096-FCD4D0410316}|Notification\\Notification.csproj|c:\\development\\others\\learning\\sub-module\\dev-environment\\src\\notification\\notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BA3392-19C1-4BDA-8096-FCD4D0410316}|Notification\\Notification.csproj|solutionrelative:notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7958435-E980-4F65-BA68-1BEC6FC41D60}|docker-compose.dcproj|c:\\development\\others\\learning\\sub-module\\dev-environment\\src\\notification\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F7958435-E980-4F65-BA68-1BEC6FC41D60}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7958435-E980-4F65-BA68-1BEC6FC41D60}|docker-compose.dcproj|c:\\development\\others\\learning\\sub-module\\dev-environment\\src\\notification\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F7958435-E980-4F65-BA68-1BEC6FC41D60}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\notification\\Notification\\Program.cs",
+              "RelativeDocumentMoniker": "Notification\\Program.cs",
+              "ToolTip": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\notification\\Notification\\Program.cs",
+              "RelativeToolTip": "Notification\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAApwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:39:15.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\notification\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\notification\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-08T21:37:13.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\notification\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\notification\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-08T21:37:06.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
